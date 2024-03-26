@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatService/SpeechBoxServerAdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GameService/SpeechBoxServerGameManagement" vcs="Git" />
   </component>
 </project>

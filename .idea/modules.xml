@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ChatServer/ChatServer.iml" filepath="$PROJECT_DIR$/ChatServer/ChatServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatService/ChatServer.iml" filepath="$PROJECT_DIR$/ChatService/ChatServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameService/GameService.iml" filepath="$PROJECT_DIR$/GameService/GameService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/speechBox.iml" filepath="$PROJECT_DIR$/.idea/speechBox.iml" />
     </modules>
