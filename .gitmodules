@@ -1,3 +1,9 @@
 [submodule "folder"]
 	path = folder
 	url = https://github.com/botmadness111/SpeechBoxServerAdd.git
+[submodule "gameService"]
+	path = gameService
+	url = https://github.com/botmadness111/SpeechBoxServerGameManagement
+[submodule "chatService"]
+	path = chatService
+	url = https://github.com/botmadness111/SpeechBoxServerAdd.git
